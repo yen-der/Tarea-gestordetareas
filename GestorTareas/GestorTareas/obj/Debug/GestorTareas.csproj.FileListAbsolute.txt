@@ -1,0 +1,11 @@
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb
+C:\Users\lester\source\repos\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe.config
